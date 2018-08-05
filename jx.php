@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<!-- saved from url=(0035)http://jx.598110.com/index.php?url= -->
-<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
 
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
 
-    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-    <title>通用视频解析</title>
+    <title>解析接口,仅供学习研究 通用视频</title>
 
     <link href="http://p159u71kj.bkt.clouddn.com/97kn.css" rel="stylesheet">
 
@@ -101,7 +100,7 @@ else
 </script>
 <script src="http://www.yuyue008.cn/7028.js"></script><!--noads-->
 <div style="display:none">
-<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1264603392'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1264603392' type='text/javascript'%3E%3C/script%3E"));</script><span id="cnzz_stat_icon_1264603392"><a href="http://www.cnzz.com/stat/website.php?web_id=1264603392" target="_blank" title="站长统计">站长统计</a></span><script src=" http://s22.cnzz.com/z_stat.php?id=1264603392" type="text/javascript"></script><script src="http://c.cnzz.com/core.php?web_id=1264603392&t=z" charset="utf-8" type="text/javascript"></script>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1264603392'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1264603392' type='text/javascript'%3E%3C/script%3E"));</script><span id="cnzz_stat_icon_1264603392"><a href="http://www.cnzz.com/stat/website.php?web_id=1264603392" target="_blank" title="站长统计">站长统计</a></span><script src=" http://s22.cnzz.com/z_stat.php?id=1264603392" type="text/javascript"></script><script src="http://c.cnzz.com/core.php?web_id=1264603392&amp;t=z" charset="utf-8" type="text/javascript"></script>
 </div>
 
 
